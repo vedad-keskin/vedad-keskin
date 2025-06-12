@@ -1,6 +1,6 @@
 # 📄 My CV :
 
-[![View My CV](https://img.shields.io/badge/CV-PDF-red?style=for-the-badge)](https://drive.google.com/file/d/1MQCOQF2A-XkSJ4MSeXenKZsItrbae-55/view?usp=sharing)
+[![View My CV](https://img.shields.io/badge/CV-PDF-red?style=for-the-badge)](https://drive.google.com/file/d/1DPhsGpdEVQgf9426_d_wVEZZAhzkHZZ3/view?usp=sharing)
 
 # 💻 Tech Stack :
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Cursor](https://img.shields.io/badge/cursor-000000?style=for-the-badge&logoColor=white&labelColor=000000)
