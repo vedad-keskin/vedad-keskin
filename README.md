@@ -4,7 +4,7 @@
 
 # 📄 CV :
 
-[![View My CV](https://img.shields.io/badge/CV-PDF-red?style=for-the-badge)](https://drive.google.com/file/d/1Rl9BhgQFKziNOIx4-2gBSsuoE_odwqcM/view?usp=sharing)
+[![View My CV]([https://img.shields.io/badge/CV-PDF-red?style=for-the-badge)](https://drive.google.com/file/d/1GNIx78HHrhtwX3fv7p79qOqVxrATtdh6/view?usp=sharing)
 
 # 📊 GitHub Stats :
 ![](https://github-readme-streak-stats.herokuapp.com/?user=vedad-keskin&theme=dark&hide_border=false)<br/>
