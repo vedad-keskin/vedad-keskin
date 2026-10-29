@@ -11,7 +11,6 @@
 ---
 
 [![](https://visitcount.itsvg.in/api?id=vedad-keskin&icon=0&color=0)](https://visitcount.itsvg.in)
-
 # 📄 CV :
 
 [![View My CV](https://img.shields.io/badge/CV-PDF-red?style=for-the-badge)](https://drive.google.com/file/d/1GNIx78HHrhtwX3fv7p79qOqVxrATtdh6/view?usp=sharing)
